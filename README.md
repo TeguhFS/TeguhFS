@@ -29,31 +29,6 @@ Saya fokus membangun aplikasi web yang skalabel dengan performa tinggi menggunak
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 🔭 Proyek Terbaru
-| Nama Proyek | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **Sistem ERP Custom** | Laravel, Tailwind, MySQL | 🚀 Live |
-| **API Integration Service** | PHP, Laravel, Redis | 🛠️ In Development |
-| **Modern Landing Page** | HTML, Tailwind, JS | ✅ Completed |
-
----
-
-### 📫 Mari Terhubung
-<p align="left">
-<a href="mailto:[EMAIL-KAMU]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/[LINKEDIN-KAMU]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://[PORTFOLIO-KAMU]" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-### ⚡ Fun Fact
-- 🔭 Sedang mendalami arsitektur **Microservices** di Laravel.
-- 🌱 Saat ini sedang mengeksplorasi **Inertia.js** dan **Vue.js**.
-- 💬 Tanya saya tentang: Bagaimana membuat UI yang rapi tanpa pusing CSS manual (hint: Tailwind!).
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
