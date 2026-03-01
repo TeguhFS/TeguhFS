@@ -1,12 +1,5 @@
-# 👋 Halo, Saya [Nama Kamu]
+# 👋 Halo, Saya [Teguh Firmansyah]
 ### 🚀 Fullstack Web Developer | Laravel & Tailwind Specialist
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-KAMU]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-KAMU]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
 
 ### 🛠️ Tech Stack & Expertise
 
