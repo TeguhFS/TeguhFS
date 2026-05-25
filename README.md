@@ -10,8 +10,6 @@
 
 ---
 
-### Tentang Saya
-
 Saya adalah seorang **Fullstack Web Developer** yang berfokus pada pembangunan aplikasi web modern, responsif, dan berkinerja tinggi. Saya sangat menyukai arsitektur kode yang bersih, desain UI yang estetik, dan optimasi performa backend menggunakan ekosistem Laravel.
 
 ---
