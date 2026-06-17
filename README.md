@@ -15,7 +15,7 @@ Saya adalah seorang **Fullstack Web Developer** yang berfokus pada pembangunan a
 ---
 
 ### Tech Stack & Expertise
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,tailwind,laravel,php,git,github,mysql,postman,vscode,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,tailwind,laravel,php,git,github,mysql,postman,vscode,neovim,mongo)](https://skillicons.dev)
 
 ---
 
