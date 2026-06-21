@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=180&section=header&text=Halo,%20Saya%20Teguh%20Firmansyah&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=180&section=header&text=Hi,%20I'm%20Teguh%20Firmansyah&fontSize=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
@@ -8,14 +8,26 @@
   </a>
 </p>
 
+--- 
+
+Based in Bandung, Indonesia, I am a Fullstack Web Developer focused on building modern, responsive, and high-performance web applications. I am deeply passionate about clean code architecture, aesthetic UI design, and optimizing backend performance specifically within the Laravel ecosystem.
+
 ---
 
-Saya adalah seorang **Fullstack Web Developer** yang berfokus pada pembangunan aplikasi web modern, responsif, dan berkinerja tinggi. Saya sangat menyukai arsitektur kode yang bersih, desain UI yang estetik, dan optimasi performa backend menggunakan ekosistem Laravel.
+### Web Development & Languages
+[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,php,cpp)](https://skillicons.dev)
 
----
+### Frameworks & Tools
+[![Frameworks & Tools](https://skillicons.dev/icons?i=laravel,tailwind)](https://skillicons.dev)
 
-### Tech Stack & Expertise
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,figma,tailwind,laravel,php,git,github,mysql,postman,vscode,neovim,mongo)](https://skillicons.dev)
+### Database & Backend Tools
+[![Database & Backend](https://skillicons.dev/icons?i=mysql,mongo,postman)](https://skillicons.dev)
+
+### DevOps & Version Control
+[![DevOps](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+### IDEs & Design
+[![IDEs & Design](https://skillicons.dev/icons?i=vscode,neovim,figma)](https://skillicons.dev)
 
 ---
 
